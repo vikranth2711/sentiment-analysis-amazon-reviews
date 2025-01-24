@@ -111,5 +111,3 @@ This project was inspired by and references the following YouTube tutorial:
 Feel free to contribute to this project by submitting a pull request or reporting issues!
 
 ---
-
-Let me know if you'd like any further edits! 😊
